@@ -15,8 +15,10 @@ I am a Data Analyst, developer, modeling & simulation engineer and technology an
 ![alt NodeJS](https://img.shields.io/badge/-NodeJS-68A063?logo=nodedotjs&logoColor=303030&style=plastic) |
 ![alt Express](https://img.shields.io/badge/-Express-68A063?logo=express&logoColor=303030&style=plastic) |
 ![alt TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?logo=typescript&logoColor=007acc&style=plastic) |
-![alt Docker](https://img.shields.io/badge/-Docker-ffffff?logo=docker&logoColor=0db7ed&style=plastic)
-![alt Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![alt Docker](https://img.shields.io/badge/-Docker-ffffff?logo=docker&logoColor=0db7ed&style=plastic) |
+![alt Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white) |
+![alt ApacheKafka](https://img.shields.io/badge/-ApacheKafka-ffffff?logo=ApacheKafka&logoColor=000000&style=plastic) |
+
 
 
 ![GitHub metrics](https://metrics.lecoq.io/leanoa)
