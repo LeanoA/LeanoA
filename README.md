@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandernelsonleano)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/LeanoA)
 
-I am a Data Analyst, developer, modeling & simulation engineer and technology and data enthusiast.
+I am a Data Analytics Engineer, developer, modeling & simulation Software Engineer, and technology and data enthusiast.
 
 **Stack:**
 
@@ -17,7 +17,7 @@ I am a Data Analyst, developer, modeling & simulation engineer and technology an
 ![alt TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?logo=typescript&logoColor=007acc&style=plastic) |
 ![alt Docker](https://img.shields.io/badge/-Docker-ffffff?logo=docker&logoColor=0db7ed&style=plastic) |
 ![alt Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white) |
-![alt ApacheKafka](https://img.shields.io/badge/-ApacheKafka-ffffff?logo=ApacheKafka&logoColor=000000&style=plastic) |
+![alt ApacheKafka](https://img.shields.io/badge/-ApacheKafka-ffffff?logo=ApacheKafka&logoColor=000000&style=plastic)
 
 
 
