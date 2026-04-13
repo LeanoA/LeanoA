@@ -4,7 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandernelsonleano)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/LeanoA)
 
-I am a Data Analytics Engineer, developer, modeling & simulation Software Engineer, and technology and data enthusiast.
+I am a Software And Robotic Systems Engineer, and technology and AI enthusiast.
+
 
 **Stack:**
 
