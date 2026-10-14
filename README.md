@@ -19,6 +19,13 @@ An engineer who loves mechanics and software things.
 📚 **Mentorship & Teaching**: Passionate about knowledge sharing, actively involved in academic environments, teaching, and engineering education.
 
 
+## 🚀 Featured Systems & Reference Architectures
+
+| System / Architecture | Domain / Scope | Description | Tech Stack | Live Preview |
+| :--- | :--- | :--- | :--- | :--- |
+| [**TwinStream**](https://github.com/LeanoA/twinstream) | Robotics & Digital Twin / Production Architecture | Decoupled telemetry gateway streaming 1,000 channels to Three.js at 60 FPS with 87.1% deadband delta compression and zero-allocation SLERP kinematics. | Three.js, TypeScript, Node.js WebSockets, Docker | [🌐 Interactive 3D Demo](https://leanoa.github.io/twinstream/) |
+
+
 ## 🧪 Notebooks & AI Experiments
 
 | Project / Experiment | Domain / Level | Description | Tech Stack |
@@ -42,18 +49,3 @@ When I'm not architecting systems or exploring new AI tools, you can find me:
 
 ---
 *Feel free to explore my repositories or reach out to connect!*
-
-<!--
-**LeanoA/LeanoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on: Simulation platforms & Spec-Driven AI workflows
-- 🌱 I’m currently learning: AI-assisted software architectures & Physical AI Infrastructure
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: Nuclear training simulators, robotics/haptics, C++, Python, and CNEA projects
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
