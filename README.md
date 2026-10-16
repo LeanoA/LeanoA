@@ -24,7 +24,7 @@ An engineer who loves mechanics and software things.
 | System / Architecture | Domain / Scope | Description | Tech Stack | Live Preview |
 | :--- | :--- | :--- | :--- | :--- |
 | [**TwinStream**](https://github.com/LeanoA/twinstream) | Robotics & Digital Twin / Production Architecture | Decoupled telemetry gateway streaming 1,000 channels to Three.js at 60 FPS with 87.1% deadband delta compression and zero-allocation SLERP kinematics. | Three.js, TypeScript, Node.js WebSockets, Docker | [🌐 Interactive 3D Demo](https://leanoa.github.io/twinstream/) |
-
+| [**Edge Vision Zone Monitor**](https://github.com/LeanoA/edge-vision-zone-monitor) | Industrial Edge AI / Safety Engineering | Architectural reference implementation for real-time restricted zone intrusion & dwell time monitoring (<22ms p95). Decouples deep learning perception from metric planar homography, Kalman kinematics, and spatial statecharts with hysteresis. | `Python` `ONNX Runtime` `CoreML` `OpenCV` `Shapely` |  [Repository](https://github.com/LeanoA/edge-vision-zone-monitor) · [Study Guide (PDF)](https://github.com/LeanoA/edge-vision-zone-monitor/blob/main/docs/architecture-study-guide.pdf) |
 
 ## 🧪 Notebooks & AI Experiments
 
