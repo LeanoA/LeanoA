@@ -23,6 +23,7 @@ An engineer who loves mechanics and software things.
 
 | System / Architecture | Domain / Scope | Description | Tech Stack | Live Preview |
 | :--- | :--- | :--- | :--- | :--- |
+| [**Sim2Real Data Engine**](https://github.com/LeanoA/sim2real-data-engine) | Embodied AI & Robotics / Synthetic Data Pipeline | Deterministic synthetic demonstration engine (>5,500 steps/s in native MuJoCo 4.0) and closed-loop 30D sensorimotor policy distillation with action chunking (-79.6% chatter, 0.11 ms latency). Conforms to Hugging Face LeRobot v2 Parquet format. | `MuJoCo 4.0` `PyTorch` `LeRobot v2` `Three.js` `Docker` | [🌐 Interactive 3D Demo](https://leanoa.github.io/sim2real-data-engine/) · [Repository](https://github.com/LeanoA/sim2real-data-engine) |
 | [**TwinStream**](https://github.com/LeanoA/twinstream) | Robotics & Digital Twin / Production Architecture | Decoupled telemetry gateway streaming 1,000 channels to Three.js at 60 FPS with 87.1% deadband delta compression and zero-allocation SLERP kinematics. | Three.js, TypeScript, Node.js WebSockets, Docker | [🌐 Interactive 3D Demo](https://leanoa.github.io/twinstream/) |
 | [**Edge Vision Zone Monitor**](https://github.com/LeanoA/edge-vision-zone-monitor) | Industrial Edge AI / Safety Engineering | Architectural reference implementation for real-time restricted zone intrusion & dwell time monitoring (<22ms p95). Decouples deep learning perception from metric planar homography, Kalman kinematics, and spatial statecharts with hysteresis. | `Python` `ONNX Runtime` `CoreML` `OpenCV` `Shapely` |  [Repository](https://github.com/LeanoA/edge-vision-zone-monitor) · [Study Guide (PDF)](https://github.com/LeanoA/edge-vision-zone-monitor/blob/main/docs/architecture-study-guide.pdf) |
 
@@ -37,7 +38,7 @@ An engineer who loves mechanics and software things.
 
 - **Languages**: Python, C++, MATLAB / Simulink
 - **AI & Dev Workflow**: GitHub Copilot, Open Code, Spec-Driven Development
-- **Domains**: Real-time Simulation, Industrial Robotics, Control Systems, Nuclear Engineering Software
+- **Domains**: Real-time Simulation, Industrial Robotics, Control Systems, Nuclear Engineering Software, Embodied AI & Synthetic Data
 
 ## ⛷️ Beyond the Code
 
